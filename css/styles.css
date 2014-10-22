@@ -1,0 +1,21 @@
+.container {
+	margin: 0 auto;
+	width: 960px;
+}
+.align-center {
+	text-align: center;
+}
+#grid {
+	width: 100%;
+	cellpadding: 0px;
+	border-collapse: collapse;
+	border: 1px solid gray;
+}
+.grid-box {
+	margin: 0;
+	padding: 0;
+	background-color: white;
+}
+#buttons-row button {
+	margin: 15px;
+}
